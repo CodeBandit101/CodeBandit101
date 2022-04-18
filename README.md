@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @CodeBandit101
-- 🌱 I’m currently learning MEAN Stack.
 - 📫 How to reach me : @shubhampachori90@gmail.com
 
 <!---
